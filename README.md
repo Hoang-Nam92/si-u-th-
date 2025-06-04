@@ -20,7 +20,7 @@ A template for vendors to sale their products on the online market. It provides 
 ### Using Zalo Mini App Extension
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/download) and [Zalo Mini App Extension](https://mini.zalo.me/docs/dev-tools).
-1. Click on **Create Project** > Choose **ZaUI Market** template > Wait until the generated project is ready.
+1. Click on **Create Project** > Choose **Siêu thị đồ Nail Bình Dương-Two Boys Supply** template > Wait until the generated project is ready.
 1. **Configure App ID** and **Install Dependencies**, then navigate to the **Run** panel > **Start** to develop your Mini App 🚀
 
 ### Using Zalo Mini App CLI
@@ -44,7 +44,7 @@ This template is built using **Vite 5.x**, which is **not compatible** with Zalo
 
 ## Deployment
 
-1. **Create** a Zalo Mini App ID. For instructions, please refer to the [Coffee Shop Tutorial](https://mini.zalo.me/tutorial/coffee-shop/step-1/).
+1. **Create** a Zalo Mini App ID. For instructions, please refer to the [Two Boys supply Shop Tutorial](https://mini.zalo.me/tutorial/TwoBoyssupply-shop/step-1/).
 
 1. **Deploy** your mini program to Zalo using the ID created.
 
